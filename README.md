@@ -46,7 +46,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
     git pull upstream master
     git push
     ```
-    
+
     Alternatively, GitHub also provides syncing now - click "Fetch upstream" at the top of your repo below "Code" button.
 
 - If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
@@ -93,7 +93,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 
 ## Contributors ✨
 
-SR No   | Project | Author  
+SR No   | Project | Author
 --- | --- | ---
 1 | [Hello World](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello) | [Ravi Chavare](https://github.com/chavarera)
 2 | [JSON to CSV](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)| [Murilo Pagliuso](https://github.com/DarkCeptor44)
@@ -190,7 +190,7 @@ SR No   | Project | Author
 93 | [Easy Video Player](https://github.com/Python-World/python-mini-projects/tree/master/projects/EasyVideoPlayer)| [Bartu Yaman](https://github.com/brtymn)
 94 | [GeeksforGeeks Article downloader](https://github.com/Python-World/python-mini-projects/tree/master/projects/download%20GeeksForGeeks%20articles)| [Shiv Thakur](https://github.com/ShivSt)
 95 | [PDF to Text](https://github.com/Python-World/python-mini-projects/tree/master/projects/convert%20pdf%20to%20text)| [pi1814](https://github.com/pi1814)
-96 | [Unstructured Supplemenrary Service Data](https://github.com/Python-World/python-mini-projects/tree/master/projects/Unstructured%20Supplemenrary%20%20Service%20Data)| [ART](https://github.com/Tomyzon1728)
+96 | [Unstructured Supplementary Service Data](https://github.com/Python-World/python-mini-projects/tree/master/projects/Unstructured%20Supplemenrary%20%20Service%20Data)| [ART](https://github.com/Tomyzon1728)
 97 | [Duplicate Files remover](https://github.com/Python-World/python-mini-projects/tree/master/projects/Duplicate%20files%20remover)| [Anandha Krishnan Aji](https://github.com/anandhakrishnanaji)
 98 | [PNG to ICO converter](https://github.com/Python-World/python-mini-projects/tree/master/projects/convert_png_images_to_ico_format)| [weicheansoo](https://github.com/weicheansoo)
 99 | [Find IMDB Ratings](https://github.com/Python-World/python-mini-projects/tree/master/projects/Find_imdb_rating)| [Utkarsh Bajaj](https://github.com/utkarshbajaj)
@@ -198,4 +198,3 @@ SR No   | Project | Author
 101 | [Whatsapp Bot](https://github.com/Python-World/python-mini-projects/tree/master/projects/whatsapp_Bot)| [urmil89](https://github.com/urmil89)
 102 | [Zip Bruter](https://github.com/Python-World/python-mini-projects/tree/master/projects/Zip_Bruter) | [Erdoğan YOKSUL](https://www.github.com/eredotpkfr)
 103 | [CountDown Timer](https://github.com/Python-World/python-mini-projects/tree/master/projects/Countdown_timer) | [Japneet Kalra](https://github.com/japneetsingh035)
-
